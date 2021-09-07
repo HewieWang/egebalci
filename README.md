@@ -16,7 +16,7 @@ I'm currently working in a Switzerland based cybersecurity company named PRODAFT
     <img src="https://img.shields.io/github/followers/egebalci?label=Followers&logo=GitHub&style=for-the-badge" alt="GitHub badge" />
   </a>
   <a href="https://github.com/egebalci.gpg">
-    <img src="https://img.shields.io/badge/pgp-0xD1C381399984AAB5-313131?style=flat&labelColor=313131&color=313131" />
+    <img src="https://img.shields.io/badge/pgp-0xD1C381399984AAB5-313131?style=for-the-badge" />
   </a>
   <a href="https://discord.gg/HEzP5Wf">
     <img src="https://img.shields.io/discord/695980914991169536?logo=discord&style=for-the-badge" />
